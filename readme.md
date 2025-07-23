@@ -1,0 +1,1 @@
+Let’s start building the checklist for PHP release version, beginning with PHP 7.1.
